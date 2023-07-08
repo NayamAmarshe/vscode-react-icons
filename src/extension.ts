@@ -77,7 +77,7 @@ function getWebviewContent() {
 		</style>
 </head>
 <body class="full">
-    <iframe src="https://react-icons-preview.vercel.app/" class="full" sandbox="allow-scripts allow-same-origin">/>
+    <iframe src="https://react-icons.github.io/react-icons" class="full" sandbox="allow-scripts allow-same-origin">/>
 </body>
 </html>`;
 }
